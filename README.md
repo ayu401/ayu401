@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Ayushi! <br/>
 
-<!--
-**ayu401/ayu401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>I'm a recent Computer Science graduate specializing in Cyber Security.</h5>
 
-Here are some ideas to get you started:
+<h2>🌐 My Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Elastic SIEM Lab](https://github.com/ayu401/Elastic-SIEM-Lab)
+- [Capstone Project](https://github.com/ayu401/Final_Grad_Submission)
+
+<h2> 📱 Connect with me:</h2>
+
+[<img align="left" alt="AyushiAgnihotri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ayushiagnihotri15/
